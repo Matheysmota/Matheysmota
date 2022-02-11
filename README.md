@@ -2,8 +2,8 @@
 ## E aí, eu sou o 2M.  
 <div align="start">
   <a href="https://github.com/Matheysmota">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=matheysmota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheysmota&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=matheysmota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheysmota&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Android" height="48" width="56" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg">

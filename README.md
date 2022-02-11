@@ -1,6 +1,6 @@
 
-## E aí, eu sou o Matheus. Estudo desenvolvimento android e curto compartilhar meus aprendizados! 📱
-## ✨Acompanhe meus aprendizados pelo GitHub ✨
+## E aí, eu sou o Matheus. sou um desenvolvedor android em formação 📱
+## Acompanhe meus aprendizados pelo GitHub 📚✨
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

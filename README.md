@@ -1,5 +1,7 @@
 
-## E aí, eu sou o 2M.  
+## E aí, eu sou o Matheus. Estou estudando desenvolvimento android e curto compartilhar meus aprendizados! 📱
+## ✨Acompanhe meus aprendizados pelo GitHub ✨
+
 <div align="center">
   <a href="https://github.com/Matheysmota">
   <img height="135em" src="https://github-readme-stats.vercel.app/api?username=matheysmota&show_icons=true&theme=darl&include_all_commits=true&count_private=true"/>

@@ -1,5 +1,5 @@
 
-## Fala, eu sou o Matheus. Sou um desenvolvedor android em formação 📱
+## E aí, me chamo Matheus. Sou um desenvolvedor android em formação 📱
 ## Curto muito compartilhar meus aprendizados pelo Medium e GitHub 📚✨
 
 <div align="center">

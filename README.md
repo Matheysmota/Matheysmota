@@ -1,7 +1,6 @@
 
-## E aí, me chamo Matheus. Sou um desenvolvedor android em formação 📱
-## Adoro compartilhar meus aprendizados pelo Medium e GitHub,
-atualmente estou cursando ciência da computação pela UBL e me especializando no desenvolvimeno mobile 📚✨
+# E aí, eu sou o Matheus! Curto compartilhar aprendizados pelo Medium e GitHub 📚✨
+## Atualmente estou me especializando no desenvolvimeno mobile e fazendo algumas cadeiras do curso ciência da computação pela UBL. 📱
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

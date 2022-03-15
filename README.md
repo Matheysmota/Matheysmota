@@ -1,6 +1,6 @@
 
 # E aí, eu sou o Matheus! Curto compartilhar aprendizados pelo Medium e GitHub 📚✨
-## Atualmente estou estudando Ciência da Computação pela UBL, e matemática aplicada. Além disso, também desenvolvo para mobile. 📱
+## Atualmente estou estudando Ciência da Computação pela UBL, e matemática aplicada. Além disso, também sigo estudando e me aprimorando em desenvolvimento mobile. 📱
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

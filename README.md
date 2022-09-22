@@ -1,6 +1,6 @@
 
 # E aí, eu sou o Matheus! Curto compartilhar aprendizados pelo Medium e GitHub 📚✨
-## 📚 Atualmente, atuo como Android Developer na Performa It, estudo desenvolvimento mobile e tópicos de matemática aplicada à computação.
+## 📚 Atualmente, atuo como Engenheiro de Software pela XP Inc, e estudo desenvolvimento mobile e tópicos de matemática aplicada à computação.
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

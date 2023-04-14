@@ -1,6 +1,6 @@
 
-# E aí, eu sou o Matheus! Curto compartilhar aprendizados pelo Medium e GitHub 📚✨
-## 📚 Atualmente, atuo como Engenheiro de Software pela XP Inc, e estudo desenvolvimento mobile e tópicos de matemática aplicada à computação.
+# E aí, meu povo! Eu sou o Matheus, sinta-se convidado para trocar ideia comigo sobre meus projetos e conhecimentos 📚✨
+## 📚 Atualmente, atuo como Engenheiro de Software Android pela XP Inc, e tenho me especializado no desenvolvimento mobile.
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

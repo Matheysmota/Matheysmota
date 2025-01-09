@@ -1,6 +1,7 @@
 
-# E aí, meu povo! Eu sou o Matheus, sinta-se convidado para trocar ideia comigo sobre meus projetos e conhecimentos 📚✨
-## 📚 Atualmente, atuo como Engenheiro de Software Android pela XP Inc, e tenho me especializado no desenvolvimento mobile.
+# Olá, eu sou o Matheus. 📚✨
+## Atualmente, faço parte do time de Renda Variável da XP Inc. como Mobile Software Engineer. Além disso, estou me especializando em UX design pela Design Circuit.
+### Sinta-se convidado(a) para se conectar comigo e me chamar para trocar uma ideia ;)
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

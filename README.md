@@ -1,7 +1,7 @@
 
-# Olá, eu sou o Matheus. 📚✨
-## Atualmente, faço parte do time de Renda Variável da XP Inc. como Mobile Software Engineer. Além disso, estou me especializando em UX design pela Design Circuit.
-### Sinta-se convidado(a) para se conectar comigo e me chamar para trocar uma ideia ;)
+### Olá, eu sou o Matheus. 📚✨
+Atualmente, faço parte do time de Renda Variável da XP Inc. como Mobile Software Engineer. Além disso, estou me especializando em UX design pela Design Circuit.
+Sinta-se convidado(a) para se conectar comigo e me chamar para trocar uma ideia ;)
 
 <div align="center">
   <a href="https://github.com/Matheysmota">

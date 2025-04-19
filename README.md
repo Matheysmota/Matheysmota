@@ -6,7 +6,7 @@ Atualmente, atuo como Mobile Engineer na XP Inc., desenvolvendo soluções escal
 
 🔭 Atualmente trabalhando com:
 - Android Nativo (Kotlin, Android Jetpack, Clean Architecture, MVVM)
-- Flutter (Dart, Bloc)
+- Flutter (Dart, Rx Dart, Bloc)
 - Sistemas Real-Time (SignalR, WebSocket, SSE)
 - Integrações escaláveis e robustas para o mercado financeiro
 

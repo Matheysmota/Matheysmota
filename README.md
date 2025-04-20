@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Matheus Mota!
 
-Sou Engenheiro de Software especializado em aplicações Mobile de alta performance, com mais de 4 anos de experiência no mercado financeiro.
+Sou Engenheiro de Software especializado em aplicações Mobile de alta performance, com mais de 3 anos de experiência no mercado financeiro.
 
 Atualmente, atuo como Mobile Engineer na XP Inc., desenvolvendo soluções escaláveis para milhões de usuários, com foco em estabilidade, experiência do usuário e engenharia de alta qualidade.
 

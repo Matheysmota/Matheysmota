@@ -16,7 +16,7 @@ Atualmente, atuo como Mobile Engineer na XP Inc., desenvolvendo soluções escal
 - System Design para aplicações Mobile
 
 💬 Vamos falar sobre:
-- Desenvolvimento Android avançado
+- Desenvolvimento Mobile
 - Performance em aplicações mobile
 - Algoritmos e estruturas de dados
 

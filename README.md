@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus Mota.
 
-Sou um **Software Engineer T-Shaped**, combinando expertise profunda em **Mobile (Flutter/Android)** com visão de arquitetura. Minha abordagem une engenharia de software e visão de produto para criar soluções escaláveis e eficientes.
+Sou **Engenheiro de Software Senior especializado em Mobile (Flutter/Android)**. Atualmente, estou expandindo minha atuação para **Backend e Cloud** para ter autonomia de construir produtos completos, do app à infraestrutura.
 
-Atualmente, sou **Mobile Software Engineer na XP Inc.**, liderando iniciativas de performance que impactam milhões de usuários. Paralelamente, atuo tenho criado meu aplicativo de desafios para casais: o DuoSpace.
+Trabalho na **XP Inc.** resolvendo problemas de performance e escala, e nas horas vagas estou construindo o **DuoSpace**: meu app de desafios para casais.
 
 🚀 **O que estou fazendo agora:**
 * **DuoSpace:** Construindo uma arquitetura Serverless (NestJS + Lambda) e algoritmos de recomendação para casais.

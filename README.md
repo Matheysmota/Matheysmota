@@ -2,7 +2,7 @@
 
 Sou **Engenheiro de Software Senior especializado em Mobile (Flutter/Android)**. Atualmente, estou expandindo minha atuação para **Backend e Cloud** para ter autonomia de construir produtos completos, do app à infraestrutura.
 
-Trabalho na **XP Inc.** resolvendo problemas de performance e escala, e nas horas vagas estou construindo o **DuoSpace**: meu app de desafios para casais.
+Trabalho na **XP Inc.** resolvendo problemas de performance e escala em Mobile, e nas horas vagas estou construindo o **DuoSpace**: meu app de desafios para casais.
 
 🚀 **O que estou fazendo agora:**
 * **DuoSpace:** Construindo uma arquitetura Serverless (NestJS + Lambda) e algoritmos de recomendação para casais.

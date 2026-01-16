@@ -10,7 +10,7 @@ Trabalho na **XP Inc.** resolvendo problemas de performance e escala, e nas hora
 🛠 **Tech Stack & Interesses:**
 * **Mobile:** Flutter, Kotlin, Android Nativo, Design Systems.
 * **Backend & Cloud:** AWS Serverless, NestJS, Redis, PostgreSQL, System Design.
-* **Foco:** Arquitetura de Software, FinOps, Modelagem Matemática e Alta Performance.
+* **Foco:** Arquitetura de Software, FinOps, Matemática e Alta Performance.
 
 📫 **Vamos conectar:**
 * [LinkedIn](https://www.linkedin.com/in/matheysmota/)
